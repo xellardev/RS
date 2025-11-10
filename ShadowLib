@@ -29,9 +29,9 @@ theme2 = Color3.fromRGB(26,26,26)
 theme3 = Color3.fromRGB(176, 148, 255)
 print("Theme selected: "..theme)
 elseif theme == "Reverse" then
-    theme1 = Color3.fromRGB(26,26,26)
-    theme2 = Color3.fromRGB(32,32,32)
-    theme3 = Color3.fromRGB(176, 148, 255)
+    theme1 = Color3.fromRGB(135, 206, 235)
+    theme2 = Color3.fromRGB(105, 105, 105)
+    theme3 = Color3.fromRGB(255, 255, 255)
     print("Theme selected: "..theme)
 elseif theme == "Blood" then
     theme1 = Color3.fromRGB(32,32,32)
