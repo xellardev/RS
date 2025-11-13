@@ -8,7 +8,7 @@ local scripts = win:Server("Scripts", "http://www.roblox.com/asset/?id=603107593
 -- Combat
 local combat = scripts:Channel("Combat")
 combat:Button("espU", function()
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/rsXez/RS/refs/heads/main/espU.lua")()
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/rsXez/RS/main/esp.lua")()
 end)
 
 -- Movement
